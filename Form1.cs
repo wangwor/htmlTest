@@ -16,8 +16,10 @@ namespace HtmlElement
         public Form1()
         {
             InitializeComponent();
-            //string agreement = System.Environment.CurrentDirectory+@"\html";
-            //string com = Path.Combine(agreement, "PickAgreementContent.html");
+            string tt = "tttt";
+            tt = "oooo";
+            string agreement = System.Environment.CurrentDirectory + @"\html";
+            string com = Path.Combine(agreement, "PickAgreementContent.html");
             webBrowser1.Navigate(com);
         }
        
