@@ -18,6 +18,7 @@ namespace HtmlElement
             InitializeComponent();
             string tt = "tttt";
             tt = "oooo";
+            tt = "33";
             string agreement = System.Environment.CurrentDirectory + @"\html";
             string com = Path.Combine(agreement, "PickAgreementContent.html");
             webBrowser1.Navigate(com);
