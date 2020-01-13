@@ -1,0 +1,9 @@
+C:\Users\Idea\Desktop\SLN project\HtmlElement\HtmlElement\bin\Debug\HtmlElement.exe.config
+C:\Users\Idea\Desktop\SLN project\HtmlElement\HtmlElement\bin\Debug\HtmlElement.exe
+C:\Users\Idea\Desktop\SLN project\HtmlElement\HtmlElement\bin\Debug\HtmlElement.pdb
+C:\Users\Idea\Desktop\SLN project\HtmlElement\HtmlElement\obj\Debug\HtmlElement.csprojAssemblyReference.cache
+C:\Users\Idea\Desktop\SLN project\HtmlElement\HtmlElement\obj\Debug\HtmlElement.Form1.resources
+C:\Users\Idea\Desktop\SLN project\HtmlElement\HtmlElement\obj\Debug\HtmlElement.Properties.Resources.resources
+C:\Users\Idea\Desktop\SLN project\HtmlElement\HtmlElement\obj\Debug\HtmlElement.csproj.GenerateResource.cache
+C:\Users\Idea\Desktop\SLN project\HtmlElement\HtmlElement\obj\Debug\HtmlElement.exe
+C:\Users\Idea\Desktop\SLN project\HtmlElement\HtmlElement\obj\Debug\HtmlElement.pdb
